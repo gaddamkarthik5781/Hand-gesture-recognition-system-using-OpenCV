@@ -24,5 +24,5 @@ A real-time hand gesture recognition system built with OpenCV to control the Chr
 ## Prerequisites
 - Python 3.7+
 - Webcam
-- Chrome Dinosaur game (playable offline or via [this link](chrome://dino))
+- Chrome Dinosaur game (playable offline)
 
